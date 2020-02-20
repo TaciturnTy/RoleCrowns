@@ -14,7 +14,7 @@ function RoleCrowns:CreateRCSettingsMenu()
 		registerForRefresh  = true,
 		registerForDefaults = true,
 		slashCommand = "/rcs",
-		-- website = "http://www.esoui.com/downloads/info93-pChat.html",
+		-- website = "",
 	}
 	
 	-- Add metadata and title to the addon menu
