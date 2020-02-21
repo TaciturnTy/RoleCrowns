@@ -2,7 +2,7 @@
 ## Author: |c228B22TheWizardLizard|r
 ## Description: Adds customizable crowns above group members. Settings can be opened with /rcs
 ## APIVersion: 100029 
-## Version: 1.0
+## Version: 1.0.0
 ## SavedVariables: RoleCrowns_SavedVariables
 ## DependsOn: Lib3D LibStub LibAddonMenu-2.0
 
