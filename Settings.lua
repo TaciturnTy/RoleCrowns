@@ -10,7 +10,7 @@ function RoleCrowns:CreateRCSettingsMenu()
         name = "Role Crowns",
 		displayName = ZO_HIGHLIGHT_TEXT:Colorize("Role Crowns"),
 		author = "TheWizardLizard",
-		version = "1.0.0",
+		version = "1.0.1",
 		registerForRefresh  = true,
 		registerForDefaults = true,
 		slashCommand = "/rcs",
