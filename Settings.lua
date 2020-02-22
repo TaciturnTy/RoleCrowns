@@ -14,7 +14,7 @@ function RoleCrowns:CreateRCSettingsMenu()
 		registerForRefresh  = true,
 		registerForDefaults = true,
 		slashCommand = "/rcs",
-		-- website = "",
+		website = "https://www.esoui.com/downloads/fileinfo.php?id=2539",
 	}
 	
 	-- Add metadata and title to the addon menu
